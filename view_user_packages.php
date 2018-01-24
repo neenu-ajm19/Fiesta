@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Packages</title>
+<title>Package</title>
 
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
